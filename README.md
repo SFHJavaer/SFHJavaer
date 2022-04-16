@@ -1,5 +1,5 @@
 # Hello, I am JavaSFH 👏
-![](https://img.shields.io/badge/Java-%E8%AF%AD%E8%A8%80-brightgreen)🏻
+![](https://img.shields.io/badge/Java-1.8-brightgreen)🏻
 
 **Preview**：From BeiJing, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿.
 
