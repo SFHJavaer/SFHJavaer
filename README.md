@@ -1,7 +1,7 @@
 # Hello, I am JavaSFH 👏
-![](https://img.shields.io/badge/Java-1.8-brightgreen)🏻
-![](https://img.shields.io/badge/Python-3.7-brightgreen)🏻
-![](https://img.shields.io/badge/Html-15-brightgreen)🏻
+![](https://img.shields.io/badge/Java-1.8-brightgreen)
+![](https://img.shields.io/badge/Python-3.7-brightgreen)
+![](https://img.shields.io/badge/Html-15-brightgreen)
 
 **Preview**：From BeiJing, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿.
 
