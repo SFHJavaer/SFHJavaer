@@ -1,4 +1,3 @@
-# Hello, I am JavaSFH 👏
 ![](https://img.shields.io/badge/Java-1.8-brightgreen)
 ![](https://img.shields.io/badge/Python-3.7-brightgreen)
 ![](https://img.shields.io/badge/Html-15-brightgreen)
@@ -9,7 +8,7 @@
 
 **Contact**：fzhang086@gmail.com
 <br> 
-<a href="https://github.com/qq2428670182"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qq2428670182&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="SFHJava's github stats" /></a> 
+
 <a href="https://github.com/qq2428670182"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq2428670182&layout=compact&theme=vue&hide_border=true" /></a>
 
 <!--
