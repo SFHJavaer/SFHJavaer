@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Python-3.7-brightgreen)
 ![](https://img.shields.io/badge/Html-15-brightgreen)
 
-  **Preview**：From BeiJing, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿.
+  **Preview**：From HangZhou, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿.
 
   **Blog**：[My Blog](https://sfhjavaer.tech/)
 
