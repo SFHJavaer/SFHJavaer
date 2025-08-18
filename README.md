@@ -7,18 +7,6 @@
   **Blog**：[My Blog](https://sfhjavaer.tech/)
 
   **Contact**：fzhang086@gmail.com
-  
----
-
-<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigorange18&theme=radical&hide_border=true" />
-&emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
-
----
-<!-- GitHub 奖杯🏆 -->
-<div align="center">
-	<img  src="https://github-profile-trophy.vercel.app/?username=sfhjavaer&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-</div>
 
 ---
 ### About My Github
@@ -36,4 +24,18 @@
     </tr>
   </table>
 </div>
+  
+---
+
+<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigorange18&theme=radical&hide_border=true" />
+&emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
+
+---
+<!-- GitHub 奖杯🏆 -->
+<div align="center">
+	<img  src="https://github-profile-trophy.vercel.app/?username=sfhjavaer&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+</div>
+
+
 
