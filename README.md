@@ -9,7 +9,10 @@
   **Contact**：fzhang086@gmail.com
   
 ---
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SFHJavaer&theme=radical&hide_border=true" />
+
+<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigorange18&theme=radical&hide_border=true" />
+&emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
 
 ---
 <!-- GitHub 奖杯🏆 -->
@@ -24,13 +27,11 @@
     <tr>
       <!-- 第一个图片 -->
       <td align="center">
-	  <img height='160' src="https://github-readme-stats.vercel.app/api?username=sfhjavaer&show_icons=true&theme=tokyonight" align="center" />
-       <!-- <img height='150' weight='100' src="https://github-readme-stats.vercel.app/api?username=sfhjavaer&hide_title=true&show_icons=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+	  	<img height='150' weight='100' src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true" />
       </td>
       <!-- 第二个图片 -->
       <td align="center">
-	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfhjavaer&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" />
-        <!-- <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfhjavaer&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
+		<img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfhjavaer&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />	
       </td>
     </tr>
   </table>
