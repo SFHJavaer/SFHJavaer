@@ -4,7 +4,7 @@
 
   **Preview**：From HangZhou, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿.
 
-  **Blog**：[My Blog](sfhjavaer.github.io)
+  **Blog**：[My Blog](https://sfhjavaer.github.io/)
 
   **Contact**：fzhang086@gmail.com
 
